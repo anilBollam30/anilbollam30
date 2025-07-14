@@ -55,6 +55,6 @@
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/chandranil-bollam-b12aaa212)  
-📧 Email: chandranil.bollam333@gmail
+📧 Email: chandranil.bollam@gmail.com
 
 ---
